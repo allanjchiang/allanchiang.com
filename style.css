@@ -37,4 +37,7 @@
 
 @media screen and (max-width: 600px) {
     .topnav.responsive {position: relative;}
+    .topnav.responsive a.icon {
+        position: absolute;
+    }
 }
