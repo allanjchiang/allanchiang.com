@@ -44,5 +44,6 @@
     }
     .topnav.responsive a {
         float: none;
+        display: block;
     }
 }
