@@ -1,3 +1,7 @@
+body {
+    font-family: sans-serif, Georgia, 'Times New Roman', Times, serif;
+}
+
 .topnav {
     background-color: #333;
     overflow: hidden;
