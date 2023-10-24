@@ -44,6 +44,9 @@ body {
     .main img {
         width: 100%;
     }
+    .description {
+        width: 100%;
+    }
 }
 
 @media screen and (max-width: 600px) {
