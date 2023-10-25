@@ -51,6 +51,7 @@ body {
 
 .about {
     line-height: 2.25rem;
+    max-width: 33%;
 }
 
 @media screen and (max-width: 600px) {
