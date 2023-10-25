@@ -80,7 +80,10 @@ body {
     .about {
         max-width: 100%;
     }
-    .description {
+    .description h1 {
+        margin: 0 0 0 2%;
+    }
+    .description p {
         margin: 0 0 0 2%;
     }
 }
