@@ -35,6 +35,10 @@ body {
     width: 100%;
 }
 
+.description {
+    line-height: 2.25rem;
+}
+
 .description h1 {
     margin: 0 0 0 20%;
 }
