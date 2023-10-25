@@ -49,6 +49,10 @@ body {
     color: #222222;
 }
 
+.about {
+    line-height: 2.25rem;
+}
+
 @media screen and (max-width: 600px) {
     .topnav a:not(:first-child) {display: none;}
     .topnav a.icon {
