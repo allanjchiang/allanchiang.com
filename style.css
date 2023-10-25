@@ -80,6 +80,9 @@ body {
     .about {
         max-width: 100%;
     }
+    .description {
+        margin: 0 0 0 2%;
+    }
 }
 
 @media screen and (max-width: 600px) {
